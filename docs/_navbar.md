@@ -7,4 +7,4 @@
 * [:us:](/us/)
 * -->
 
-[Uso Básico]: https://renatomportugal.github.io/11.curvetracer/uso-basico
+[Uso Básico]: https://tecnocrata-org.github.io/11.curvetracer/uso-basico

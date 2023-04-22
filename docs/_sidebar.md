@@ -1,1 +1,1 @@
-* [Teoria](/#curve_tracer)
+* [Tipos](/#Tipos-de-Cruve-Tracer)
