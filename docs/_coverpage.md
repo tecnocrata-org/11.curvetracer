@@ -4,4 +4,4 @@
 
 > Aprenda a utilizar o Curve Tracer.
 
-[TIPOS](#Tipos-de-Cruve-Tracer)
+[Iniciar](#Iniciar)
