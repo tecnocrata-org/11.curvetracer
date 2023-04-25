@@ -1,8 +1,7 @@
 # Home-Made
 
 ```CMD
-
-
+Estes são os projetos feitos em condições não industriais.
 ```
 
 ## Octopus
