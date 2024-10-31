@@ -2,9 +2,10 @@
 
 ## Tecktronik
 
-```Link
+```CMD
 https://www.tek.com/en/blog/i-v-curve-tracer
-```
+
+
 Curve Tracer vs. I-V Curve Tracer Software
 
 ![004](./img/004.i-v-curve-tracer_Blog-Header.jpg)
@@ -49,4 +50,19 @@ When it comes to failure analysis of semiconductor devices, I-V curve tracers ar
 In addition to failure analysis, curve tracers have long been considered a must-have in engineering classrooms for their simplicity in allowing students to directly apply their learning to electrical devices. I-V Tracer with an SMU offers the same benefit, giving real-time, direct control to students allowing them to experiment and solidify understanding on a wide range of electronics.
 
 To find the right solution for your application, explore our [I-V curve tracer configurations](https://www.tek.com/en/products/keithley/semiconductor-test-systems/parametric-curve-tracer-configurations) or learn more about Keithley’s [ I-V curve tracer software](https://www.tek.com/en/keithley-i-v-curve-tracer) and graphical [SMUs](https://www.tek.com/en/products/keithley/source-measure-units/2400-graphical-series-sourcemeter).
+```
 
+## alaonix
+
+```CMD
+https://www.alaonix.com/
+
+```
+
+## fados
+
+```CMD
+https://www.protarge.com/en/products/FADOS9F1
+https://gsasindia.com/solutions/board-diagnostic-systems/field-testers/fados-9f1-fault-detector-and-oscilloscope-9-functions-in-1/
+
+```
